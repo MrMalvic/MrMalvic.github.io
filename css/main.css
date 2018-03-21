@@ -11,9 +11,9 @@ h1{
 .middle-text{
   font-weight: lighter;
   text-align: center;
-  padding-top: 300px;
-  padding-bottom: 450px;
-  font-size: 30px;
+  padding-top: 295px;
+  padding-bottom: 377px;
+  font-size: 25px;
   color: #E0E0E0;
   background-color: rgba(0, 0, 0, 0.5);
   font-family: 'Raleway', sans-serif;
@@ -21,4 +21,25 @@ h1{
 
 #title{
   font-size: 25px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
+
+footer{
+  font-family: monospace;
+  color: white;
+}
+
+.about-text{
+  font-weight: lighter;
+  text-align: center;
+  color: #E0E0E0;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: 'Raleway', sans-serif;
+  padding-top: 120px;
+  padding-bottom: 230px;
+  font-size: 25px;
+}
+
+  nav{
+
+  }
